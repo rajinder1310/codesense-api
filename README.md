@@ -1,6 +1,8 @@
 # CodeSense — AI Code Evaluation Service
 
 > A production-grade REST API that analyses Python code quality and benchmarks solutions against auto-generated test suites.
+> 
+> 🔗 GitHub: https://github.com/rajinder1310/codesense-api
 
 ---
 
